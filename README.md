@@ -11,3 +11,8 @@ This requires <a href="https://processing.org/">Processing</a> in Python mode to
   * **Left Click:** This compounds the transformation, equivalent to multiplying the matrix by itself.
   * **Right Click:** This resets/replays the animation as if you just started it. 
   * **Mouse Movement:** This rotates the 3D object.
+
+## Extra info
+* The blue plane is the X-Y plane.
+* The yellow plane is the X-Z plane.
+* The red plane is the Y-Z plane.
